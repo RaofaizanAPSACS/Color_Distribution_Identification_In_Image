@@ -4,14 +4,14 @@ The purpose of the project is to identify the colors distribution in an input im
 Peformed **Kmeans Clustering technique** to make groupings of the colors in the image. Then, plotted the distribution using the Pie-Chart.
 
 ## Results:
-Sample Image:
+Sample Image: <br>
 <img src="sample1.png"></img>
-
-Output:
+<br>
+Output: <br>
 <img src="output1.png"></img>
-
-Sample Image:
+<br>
+Sample Image: <br>
 <img src="sample2.png"></img>
-
-Output:
+<br>
+Output: <br>
 <img src="output2.png"></img>
